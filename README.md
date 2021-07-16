@@ -21,7 +21,7 @@ python Run.py
 ## Result
 ![](https://github.com/GustavoHFMO/GMM-VRD/blob/master/images/gmm_vrd_execution.png)
 
-## Visually How OGMMF-VRD Works: 
+## OGMMF-VRD Animation: 
 https://www.youtube.com/watch?v=lP-onPHSR0A
 
 ## License
