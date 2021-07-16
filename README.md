@@ -1,5 +1,6 @@
 # OGMMF-VRD: On-line Gaussian Mixture Model With Noise Filter For Handling Virtual and Real Concept Drifts.
 
+# Paper Code
 > Oliveira, Gustavo, Leandro Minku, and Adriano Oliveira. "Tackling Virtual and Real Concept Drifts: An Adaptive Gaussian Mixture Model." arXiv preprint arXiv:2102.05983 (2021).
 
 ## Usage
