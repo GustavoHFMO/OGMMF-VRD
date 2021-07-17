@@ -622,9 +622,9 @@ class Dynse(PREQUENTIAL_SUPER):
         for i, X in enumerate(self.STREAM):
 
             # to use the cross validation
-            run=True
+            run=False
             if(cross_validation and self.cross_validation(i, qtd_folds, fold)):
-                run = False
+                run = True
             
             # to execute the prequential precedure
             if(run):

@@ -22,10 +22,11 @@ from competitive_algorithms.igmmcd import IGMM_CD
 
 # Importing some libs to help the execution
 from streams.readers.arff_reader import ARFFReader
-
+from data_streams.adjust_labels import Adjust_labels
+al = Adjust_labels()
 
 ####### 1. DEFINING THE DATASETS ##################################################################
-i = 2
+i = 0
 '''
 # REAL DATASETS 
 dataset = ['gassensor', 
@@ -48,6 +49,7 @@ dataset = ['circles',
            'SEA', 
            'SEARec']
 labels, _, stream_records = ARFFReader.read("data_streams/_synthetic/"+dataset[i]+".arff")
+stream_records = al.adjustStream(labels, stream_records)
 ####### 1. ########################################################################################
     
     
