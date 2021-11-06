@@ -21,8 +21,8 @@ python Run.py
 ![](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/images/ogmmfvrd_execution.png)
 
 ## [OGMMF-VRD Animation](https://www.youtube.com/watch?v=lP-onPHSR0A): 
-![](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/images/animation1.gif)
 ![](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/images/animation2.gif)
+![](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/images/animation1.gif)
 
 ## License
 This project is under a GNU General Public License (GPL) Version 3. See [LICENSE](https://www.gnu.org/licenses/gpl-3.0-standalone.html) for more information.
