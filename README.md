@@ -21,6 +21,8 @@ python Run.py
 ![](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/images/ogmmfvrd_execution.png)
 
 ## OGMMF-VRD Animation: 
+![](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/images/animation1.gif)
+![](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/images/animation2.gif)
 > https://www.youtube.com/watch?v=lP-onPHSR0A
 
 ## License
