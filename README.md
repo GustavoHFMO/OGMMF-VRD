@@ -3,6 +3,8 @@
 ## 📄 Paper
 [Oliveira et al. (TKDE)](https://github.com/GustavoHFMO/OGMMF-VRD/blob/master/OliveiraTKDE2021.pdf)
 
+> G. Oliveira, L. L. Minku and A. L. I. Oliveira, "Tackling Virtual and Real Concept Drifts: An Adaptive Gaussian Mixture Model Approach," in IEEE Transactions on Knowledge and Data Engineering, 2021. doi: 10.1109/TKDE.2021.3099690.
+
 ## Problem
 Most methods handle only real drift and ignore differences between virtual and real drift, leading to suboptimal adaptation.
 
@@ -15,7 +17,6 @@ Most methods handle only real drift and ignore differences between virtual and r
 - Outperformed state-of-the-art methods on synthetic and real datasets.
 - More stable performance and smaller degradation during drift periods.
 
-> G. Oliveira, L. L. Minku and A. L. I. Oliveira, "Tackling Virtual and Real Concept Drifts: An Adaptive Gaussian Mixture Model Approach," in IEEE Transactions on Knowledge and Data Engineering, 2021. doi: 10.1109/TKDE.2021.3099690.
 
 ## Usage
 ```
